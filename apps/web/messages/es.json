@@ -1,0 +1,131 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Transforma tu hogar, protege el planeta",
+      "subtitle": "Suscríbete a nuestra EcoBox y recibe mensualmente productos sostenibles cuidadosamente seleccionados. Empieza tu viaje hacia una vida sin residuos.",
+      "cta": "Explorar Planes"
+    },
+    "features": {
+      "title": "Por qué elegir EcoBox",
+      "f1_title": "100% Sostenible",
+      "f1_desc": "Productos sin plásticos y respetuosos con el medio ambiente.",
+      "f2_title": "Curaduría Experta",
+      "f2_desc": "Seleccionamos las mejores marcas éticas cada mes.",
+      "f3_title": "Ahorro Garantizado",
+      "f3_desc": "Consigue productos premium a un precio menor que en tiendas."
+    },
+    "howItWorks": {
+      "title": "Cómo Funciona",
+      "s1_title": "1. Elige tu plan",
+      "s1_desc": "Selecciona la suscripción que mejor se adapte a tu hogar.",
+      "s2_title": "2. Recibe tu caja",
+      "s2_desc": "Te enviamos una nueva selección ecológica cada mes.",
+      "s3_title": "3. Disfruta",
+      "s3_desc": "Descubre nuevos productos y reduce tu huella de carbono."
+    },
+    "cta": {
+      "title": "¿Listo para el cambio?",
+      "subtitle": "Únete a miles de personas que ya están marcando la diferencia.",
+      "button": "Suscribirme Ahora"
+    }
+  },
+  "ProductPage": {
+    "title": "La EcoBox Mensual",
+    "subtitle": "Cada caja contiene de 5 a 7 productos premium de tamaño completo enfocados en reducir residuos en tu cocina, baño y vida diaria.",
+    "pricingTitle": "Planes Simples y Transparentes",
+    "plan1_name": "Mensual",
+    "plan1_price": "$29.99/mes",
+    "plan1_desc": "Perfecto para empezar. Cancela cuando quieras.",
+    "plan2_name": "Semestral",
+    "plan2_price": "$25.99/mes",
+    "plan2_desc": "Ahorra un 15% con compromiso de 6 meses. La suscripción más popular.",
+    "plan3_name": "Anual",
+    "plan3_price": "$22.99/mes",
+    "plan3_desc": "Nuestro mejor valor. Compromiso anual para verdaderos eco-guerreros.",
+    "whatsInside": "Qué hay en el interior",
+    "item1": "Alternativas reutilizables",
+    "item2": "Cuidado personal sin envases plásticos",
+    "item3": "Artículos de limpieza ecológicos",
+    "item4": "Sorpresas éticas y orgánicas",
+    "subscribe_btn": "Ver Planes de Suscripción",
+    "galleryTitle": "Detalles que Marcan la Diferencia",
+    "gallerySubtitle": "Cada producto es elegido por su calidad, impacto y ética.",
+    "gallery_img1": "Productos seleccionados",
+    "gallery_img2": "Embalaje 100% reciclado",
+    "gallery_img3": "Tu nuevo estilo de vida",
+    "selectPlanTitle": "Suscripción",
+    "selectPlanSubtitle": "Elige tu camino hacia un futuro más verde.",
+    "simplePlans": "Planes Simple",
+    "transactions": "Transacciones Recientes",
+    "transItem1": "Elena M. se suscribió al Plan Anual",
+    "transItem2": "Carlos R. renovó su suscripción Mensual",
+    "transItem3": "Sofía G. se unió a la comunidad",
+    "selectionTitle": "La Selección Eco",
+    "selectionSubtitle": "Echa un vistazo a algunos de los productos premium que podrías recibir en tu caja.",
+    "prod1_name": "Jabones Artesanales",
+    "prod1_desc": "Elaborados con aceites esenciales y botánicos orgánicos.",
+    "prod2_name": "Set de Sorbetes de Acero",
+    "prod2_desc": "Duraderos, elegantes y 100% libres de plástico.",
+    "prod3_name": "Bolsas de Malla de Algodón",
+    "prod3_desc": "La alternativa perfecta para tus compras sin residuos."
+  },
+  "DashboardPage": {
+    "title": "Mi Cuenta",
+    "welcome": "Hola, Eco-guerrero",
+    "status": "Suscripción Activa",
+    "status_desc": "Tu próxima EcoBox llegará el 15 de Octubre.",
+    "impactTitle": "Tu Impacto Ecológico",
+    "impact1": "12 Botellas",
+    "impact1_desc": "de plástico evitadas",
+    "impact2": "5kg CO2",
+    "impact2_desc": "reducidos",
+    "impact3": "3 Árboles",
+    "impact3_desc": "plantados",
+    "ordersTitle": "Historial de Pedidos",
+    "order1": "EcoBox Septiembre",
+    "order2": "EcoBox Agosto",
+    "delivered": "Entregado",
+    "sidebar": {
+      "overview": "Resumen",
+      "orders": "Mis Pedidos",
+      "billing": "Facturación",
+      "settings": "Configuración",
+      "logout": "Cerrar Sesión"
+    },
+    "billing": {
+      "title": "Facturación y Pagos",
+      "method": "Método de Pago",
+      "card_ending": "Terminada en 4242",
+      "exp": "Expira 12/26",
+      "invoices": "Facturas Recientes",
+      "date": "Fecha",
+      "amount": "Monto",
+      "download": "Descargar PDF"
+    },
+    "settings": {
+      "title": "Configuración del Perfil",
+      "name": "Nombre Completo",
+      "email": "Correo Electrónico",
+      "address": "Dirección de Envío",
+      "save": "Guardar Cambios"
+    },
+    "orders": {
+      "detail_title": "Detalle de Pedidos",
+      "id": "ID Pedido",
+      "tracking": "Seguimiento"
+    }
+  },
+  "AboutPage": {
+    "title": "Nuestra Misión",
+    "subtitle": "Creemos que pequeños cambios en nuestro día a día pueden crear un impacto masivo en nuestro planeta.",
+    "content1": "EcoBox nació de la frustración al ver la cantidad de plástico de un solo uso que generamos en nuestros hogares sin darnos cuenta. Nuestra misión es facilitar la transición hacia un estilo de vida más sostenible.",
+    "content2": "Trabajamos directamente con artesanos locales y marcas éticas para llevar a tu puerta los mejores productos ecológicos, garantizando que cada artículo en tu caja sea útil, de alta calidad y verdaderamente sostenible.",
+    "teamTitle": "El Equipo que Organiza",
+    "team1_name": "Elena Martínez",
+    "team1_role": "Fundadora y CEO",
+    "team2_name": "David Chen",
+    "team2_role": "Experto en Sostenibilidad",
+    "team3_name": "Sarah Williams",
+    "team3_role": "Directora de Operaciones"
+  }
+}

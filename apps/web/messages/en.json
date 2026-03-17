@@ -1,0 +1,131 @@
+{
+  "HomePage": {
+    "hero": {
+      "title": "Transform your home, protect the planet",
+      "subtitle": "Subscribe to our EcoBox and receive carefully selected sustainable products monthly. Start your journey to a zero-waste life.",
+      "cta": "Explore Plans"
+    },
+    "features": {
+      "title": "Why Choose EcoBox",
+      "f1_title": "100% Sustainable",
+      "f1_desc": "Plastic-free and environmentally friendly products.",
+      "f2_title": "Expert Curation",
+      "f2_desc": "We select the best ethical brands every month.",
+      "f3_title": "Guaranteed Savings",
+      "f3_desc": "Get premium products at a lower price than in stores."
+    },
+    "howItWorks": {
+      "title": "How It Works",
+      "s1_title": "1. Choose your plan",
+      "s1_desc": "Select the subscription that best fits your home.",
+      "s2_title": "2. Receive your box",
+      "s2_desc": "We send you a new eco-friendly selection every month.",
+      "s3_title": "3. Enjoy",
+      "s3_desc": "Discover new products and reduce your carbon footprint."
+    },
+    "cta": {
+      "title": "Ready for a change?",
+      "subtitle": "Join thousands of people who are already making a difference.",
+      "button": "Subscribe Now"
+    }
+  },
+  "ProductPage": {
+    "title": "The Monthly EcoBox",
+    "subtitle": "Each box contains 5 to 7 full-size premium products focused on reducing waste in your kitchen, bathroom, and daily life.",
+    "pricingTitle": "Simple & Transparent Pricing",
+    "plan1_name": "Monthly",
+    "plan1_price": "$29.99/mo",
+    "plan1_desc": "Perfect to get started. Cancel anytime.",
+    "plan2_name": "Bi-Annual",
+    "plan2_price": "$25.99/mo",
+    "plan2_desc": "Save 15% with a 6-month commitment. Most popular.",
+    "plan3_name": "Annual",
+    "plan3_price": "$22.99/mo",
+    "plan3_desc": "Our best value. Yearly commitment for true eco-warriors.",
+    "whatsInside": "What's Inside",
+    "item1": "Reusable alternatives",
+    "item2": "Plastic-free personal care",
+    "item3": "Eco-friendly cleaning supplies",
+    "item4": "Ethical & organic surprises",
+    "subscribe_btn": "View Subscription Plans",
+    "galleryTitle": "Details that Make a Difference",
+    "gallerySubtitle": "Every product is chosen for its quality, impact, and ethics.",
+    "gallery_img1": "Curated products",
+    "gallery_img2": "100% recycled packaging",
+    "gallery_img3": "Your new lifestyle",
+    "selectPlanTitle": "Subscription",
+    "selectPlanSubtitle": "Choose your path to a greener future.",
+    "simplePlans": "Simple Plans",
+    "transactions": "Recent Transactions",
+    "transItem1": "Elena M. subscribed to the Annual Plan",
+    "transItem2": "Carlos R. renewed his Monthly subscription",
+    "transItem3": "Sophia G. joined the community",
+    "selectionTitle": "The Eco-Selection",
+    "selectionSubtitle": "Discover some of the premium products you might find in your box.",
+    "prod1_name": "Artisan Soap Bars",
+    "prod1_desc": "Handcrafted with organic essential oils and botanicals.",
+    "prod2_name": "Bamboo Cutlery Set",
+    "prod2_desc": "Durable, elegant, and 100% plastic-free.",
+    "prod3_name": "Cotton Mesh Bags",
+    "prod3_desc": "The perfect zero-waste alternative for your shopping."
+  },
+  "DashboardPage": {
+    "title": "My Account",
+    "welcome": "Hello, Eco-warrior",
+    "status": "Active Subscription",
+    "status_desc": "Your next EcoBox will arrive on October 15th.",
+    "impactTitle": "Your Ecological Impact",
+    "impact1": "12 Bottles",
+    "impact1_desc": "of plastic avoided",
+    "impact2": "5kg CO2",
+    "impact2_desc": "reduced",
+    "impact3": "3 Trees",
+    "impact3_desc": "planted",
+    "ordersTitle": "Order History",
+    "order1": "September EcoBox",
+    "order2": "August EcoBox",
+    "delivered": "Delivered",
+    "sidebar": {
+      "overview": "Overview",
+      "orders": "My Orders",
+      "billing": "Billing",
+      "settings": "Settings",
+      "logout": "Logout"
+    },
+    "billing": {
+      "title": "Billing & Payments",
+      "method": "Payment Method",
+      "card_ending": "Ending in 4242",
+      "exp": "Expires 12/26",
+      "invoices": "Recent Invoices",
+      "date": "Date",
+      "amount": "Amount",
+      "download": "Download PDF"
+    },
+    "settings": {
+      "title": "Profile Settings",
+      "name": "Full Name",
+      "email": "Email Address",
+      "address": "Shipping Address",
+      "save": "Save Changes"
+    },
+    "orders": {
+      "detail_title": "Order Details",
+      "id": "Order ID",
+      "tracking": "Tracking"
+    }
+  },
+  "AboutPage": {
+    "title": "Our Mission",
+    "subtitle": "We believe that small changes in our daily lives can create a massive impact on our planet.",
+    "content1": "EcoBox was born from the frustration of seeing the amount of single-use plastic we generate in our homes without realizing it. Our mission is to make the transition to a more sustainable lifestyle easier.",
+    "content2": "We work directly with local artisans and ethical brands to bring the best eco-friendly products to your door, ensuring every item in your box is useful, high-quality, and truly sustainable.",
+    "teamTitle": "The Team that Organizes",
+    "team1_name": "Elena Martínez",
+    "team1_role": "Founder & CEO",
+    "team2_name": "David Chen",
+    "team2_role": "Sustainability Expert",
+    "team3_name": "Sarah Williams",
+    "team3_role": "Head of Operations"
+  }
+}
